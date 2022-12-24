@@ -27,6 +27,7 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -51,6 +52,17 @@ Just download the files and copy them to a local directory. Then open the file "
 ## Usage
 
 You can practice async functions and track real data on a Map.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ROADMAP -->
+## Roadmap
+
+Future improvements:
+<ul>
+  <li>Select the route</li>
+  <li>List information about the bus when the icon is clicked</li>
+</ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
