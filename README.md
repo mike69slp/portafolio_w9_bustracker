@@ -83,4 +83,4 @@ Future improvements:
 [license-url]: https://github.com/mike69slp/portafolio_w9_bustracker/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/miguel-esparza-3403306a
-[product-screenshot]: https://github.com/mike69slp/portafolio_w4_pacman/blob/main/red.png
+[product-screenshot]: https://github.com/mike69slp/portafolio_w9_bustracker/blob/main/red.png
