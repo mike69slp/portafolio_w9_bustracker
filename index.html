@@ -1,0 +1,38 @@
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <title>Real Time Bus Tracker</title>
+  <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js"></script>
+  <script src="mapanimation.js"></script>
+  <link href="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div id="busesContainer" class="container" style="display: none;">
+    <div class="content">
+      <div class="header">
+        <h1>Welcome to the Bus Tracker App</h1>
+        <h3>Here you can select a Bus and track it!</h3>
+      </div>
+      <div class="actions">
+        <div class="action">
+          <button style="font-size: 2em" onclick="listBuses()">Show available Buses</button>
+        </div>
+      </div>
+      <div id="listBuses" class="elements"></div>
+    </div>
+  </div>
+
+  <div id="mapContainer" style="display: block; position: absolute; top: 0; bottom: 0; width: 100%;">
+    <div id="map"></div>
+
+    <div class="map-overlay top">
+      <button style="font-size: 2em" onclick="showBusList()">
+        Go back and select another Bus
+      </button>
+    </div>
+  </div>
+</body>
+</html>
