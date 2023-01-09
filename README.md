@@ -11,7 +11,7 @@
   <h3 align="center">Real Time Bus Tracker</h3>
 
   <p align="center">
-    A simple html code with javascript to real track a Bus from Route 1 of the Massachisetts area
+    A simple html code with javascript to real track a Bus from Route 1 of the Massachusetts area
     <br />
     <br />
     <a href="https://github.com/mike69slp/portafolio_w9_bustracker"><strong>Explore the docs »</strong></a>
@@ -36,7 +36,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/mike69slp/portafolio_w9_bustracker/blob/main/mapanimation.js)
 
-A simple html code with javascript to real track a Bus from Route 1 of the Massachisetts area
+A simple html code with javascript to real track a Bus from Route 1 of the Massachusetts area
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
