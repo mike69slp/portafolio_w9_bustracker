@@ -24,9 +24,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#about-the-project">About the Project</a></li>
+    <li><a href="#how-to-run">How to Run</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -41,15 +40,10 @@ A simple html code with javascript to real track a Bus from Route 1 of the Massa
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- HOW TO RUN -->
+## How to Run
 
 Just download the files and copy them to a local directory. Then open the file "index.html" in a browser window. Have fun!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES -->
-## Usage
 
 You can practice async functions and track real data on a Map.
 
